@@ -12,16 +12,16 @@
 | 008   | Array               | find Largest sum contiguous Subarray [V. IMP]                                                        | &check; |
 | 009   | Array               | Minimise the maximum difference between heights [V.IMP]                                              | &cross; |
 | 010   | Array               | Minimum no. of Jumps to reach end of an array                                                        | &cross; |
-| 011   | Array               | find duplicate in an array of N+1 Integers                                                           | &cross; |
-| 012   | Array               | Merge 2 sorted arrays without using Extra space.                                                     | &cross; |
+| 011   | Array               | find duplicate in an array of N+1 Integers                                                           | &check; |
+| 012   | Array               | Merge 2 sorted arrays without using Extra space.                                                     | &check; |
 | 013   | Array               | Kadane's Algo [V.V.V.V.V IMP]                                                                        | &cross; |
 | 014   | Array               | Merge Intervals                                                                                      | &cross; |
 | 015   | Array               | Next Permutation                                                                                     | &cross; |
 | 016   | Array               | Count Inversion                                                                                      | &cross; |
 | 017   | Array               | Best time to buy and Sell stock                                                                      | &cross; |
-| 018   | Array               | find all pairs on integer array whose sum is equal to given number                                   | &cross; |
-| 019   | Array               | find common elements In 3 sorted arrays                                                              | &cross; |
-| 020   | Array               | Rearrange the array in alternating positive and negative items with O(1) extra space                 | &cross; |
+| 018   | Array               | find all pairs on integer array whose sum is equal to given number                                   | &check; |
+| 019   | Array               | find common elements In 3 sorted arrays                                                              | &check; |
+| 020   | Array               | Rearrange the array in alternating positive and negative items with O(1) extra space                 | &check; |
 | 021   | Array               | Find if there is any subarray with sum equal to 0                                                    | &cross; |
 | 022   | Array               | Find factorial of a large number                                                                     | &cross; |
 | 023   | Array               | find maximum product subarray                                                                        | &cross; |
