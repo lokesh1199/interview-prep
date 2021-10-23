@@ -22,7 +22,7 @@
 | 018   | Array               | find all pairs on integer array whose sum is equal to given number                                   | &check; |
 | 019   | Array               | find common elements In 3 sorted arrays                                                              | &check; |
 | 020   | Array               | Rearrange the array in alternating positive and negative items with O(1) extra space                 | &check; |
-| 021   | Array               | Find if there is any subarray with sum equal to 0                                                    | &cross; |
+| 021   | Array               | Find if there is any subarray with sum equal to 0                                                    | &check; |
 | 022   | Array               | Find factorial of a large number                                                                     | &cross; |
 | 023   | Array               | find maximum product subarray                                                                        | &cross; |
 | 024   | Array               | Find longest coinsecutive subsequence                                                                | &cross; |
