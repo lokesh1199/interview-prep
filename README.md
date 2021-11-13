@@ -1,6 +1,6 @@
 # interview-prep
 
-| S. No | Topic:              | Problem:                                                                                             | Done    |
+| S. No | Topic               | Problem                                                                                              | Done    |
 | ----- | ------------------- | ---------------------------------------------------------------------------------------------------- | ------- |
 | 001   | Array               | Reverse the array                                                                                    | &check; |
 | 002   | Array               | Find the maximum and minimum element in an array                                                     | &check; |
@@ -14,7 +14,7 @@
 | 010   | Array               | Minimum no. of Jumps to reach end of an array                                                        | &cross; |
 | 011   | Array               | find duplicate in an array of N+1 Integers                                                           | &check; |
 | 012   | Array               | Merge 2 sorted arrays without using Extra space.                                                     | &check; |
-| 013   | Array               | Kadane's Algo [V.V.V.V.V IMP]                                                                        | &cross; |
+| 013   | Array               | Kadane's Algo [V.V.V.V.V IMP]                                                                        | &check; |
 | 014   | Array               | Merge Intervals                                                                                      | &cross; |
 | 015   | Array               | Next Permutation                                                                                     | &cross; |
 | 016   | Array               | Count Inversion                                                                                      | &cross; |
