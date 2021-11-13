@@ -11,7 +11,7 @@
 | 007   | Array               | Write a program to cyclically rotate an array by one.                                                | &check; |
 | 008   | Array               | find Largest sum contiguous Subarray [V. IMP]                                                        | &check; |
 | 009   | Array               | Minimise the maximum difference between heights [V.IMP]                                              | &cross; |
-| 010   | Array               | Minimum no. of Jumps to reach end of an array                                                        | &cross; |
+| 010   | Array               | Minimum no. of Jumps to reach end of an array                                                        | &check; |
 | 011   | Array               | find duplicate in an array of N+1 Integers                                                           | &check; |
 | 012   | Array               | Merge 2 sorted arrays without using Extra space.                                                     | &check; |
 | 013   | Array               | Kadane's Algo [V.V.V.V.V IMP]                                                                        | &check; |
